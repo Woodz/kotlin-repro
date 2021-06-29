@@ -1,3 +1,5 @@
+// https://youtrack.jetbrains.com/issue/KT-47514
+
 typealias SingleTypeMap<T> = Map<T, T>
 typealias DoubleTypeMap<K, V> = Map<K, V>
 
